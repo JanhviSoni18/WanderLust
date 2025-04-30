@@ -23,3 +23,4 @@ MONGO-DB
 2. Navigate to the project directory: cd WanderLust
 3. Install dependencies: npm install
 # WanderLust
+# WanderLust
